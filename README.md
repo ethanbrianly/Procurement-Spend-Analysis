@@ -12,8 +12,7 @@ This project analyzes about 344,000 purchase order lines from California state d
 SQL (DuckDB), Python (Google Colab, forecasting only), Excel, Power BI
 
 ## Dataset
-https://data.ca.gov/dataset/ae343670-f827-4bc8-9d44-2af937d60190
-California Purchase Order Data 2012-2015 (California Open Data Portal, data.ca.gov). The raw file has 344,504 lines across 197,000 purchase orders and three fiscal years. Key fields include department, supplier, acquisition type and method, item name and description, UNSPSC segment and family, quantity, unit price and total price. The raw CSV is not included in this repo.
+[Purchase Order Data 2012-2015](https://data.ca.gov/dataset/ae343670-f827-4bc8-9d44-2af937d60190) (California Open Data Portal) (California Open Data Portal, data.ca.gov). The raw file has 344,504 lines across 197,000 purchase orders and three fiscal years. Key fields include department, supplier, acquisition type and method, item name and description, UNSPSC segment and family, quantity, unit price and total price. The raw CSV is not included in this repo.
 
 About 264,000 raw lines are goods (non-IT and IT). The rest are services and telecommunications, which are excluded from the main analysis.
 
