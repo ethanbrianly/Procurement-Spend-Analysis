@@ -3,7 +3,7 @@
 ## Project Overview
 This project analyzes about 344,000 purchase order lines from California state departments (fiscal years 2012-13 to 2014-15) to understand where goods spend goes, how concentrated it is among vendors, how it is bought, and where consolidation could save money. The analysis cleans the raw purchase orders, builds a spend cube, segments product categories with a Kraljic matrix, checks price variance on a small set of comparable items, forecasts monthly purchasing, and estimates savings with a simple scenario model.
 
-**Dashboard:** `procurement_dashboard.pbix` (open in Power BI Desktop). Screenshots are in the `dashboard/` folder.
+**Dashboard:** `procurement_dashboard.pbix` (open in Power BI Desktop). 
 
 ![Page 1: Spend overview](dashboard/dashboard_page1.png)
 ![Page 2: Categories and outlook](dashboard/dashboard_page2.png)
